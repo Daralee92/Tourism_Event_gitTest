@@ -1,0 +1,6 @@
+framework module Pods_NoMore {
+  umbrella header "Pods-NoMore-umbrella.h"
+
+  export *
+  module * { export * }
+}
